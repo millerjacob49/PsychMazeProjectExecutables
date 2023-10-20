@@ -1,1 +1,15 @@
-These are my instructions!
+Welcome to the MazeRunner experiment!
+In today&#39;s experiment, you will attempt to learn the correct path through a virtual maze.
+You will use the Xbox controller to control the movement of your point of view through
+the maze, much like you would in a FPS (first-person shooter) video game.
+The joystick under your left thumb controls movement, and the joystick under your right
+thumb controls the direction of your gaze. Please let the RA know if you need help
+understanding the controls.
+On each trial, your task will be to find your way through the maze as fast as possible.
+You will have 100 seconds to run through the maze.
+If you don&#39;t find your way out during that time, you will be reset at the beginning of the
+maze. It may look strange when you reset, but if you use the controller to move into the
+maze, it will look familiar again.
+You should pay attention on each run to the path you&#39;re taking, as it may help you learn
+the maze over time.
+When you&#39;re ready to begin, click &quot;Start&quot; on the screen.
