@@ -1,5 +1,0 @@
-Thank you for participating in the MazeRunner experiment!
-
-Today's experiment is designed to see whether having a top-down minimap helps or hinders people's ability to learn routes (like through a maze) when they no longer have a map to help them.
-
-If you have any questions, please feel free to ask them now.. 
